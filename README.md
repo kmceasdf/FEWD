@@ -1,6 +1,6 @@
 # FEWD
 
-Experiment1 = Create your profile page using *HTML tags* and add contact us form as well.
+Experiment1 = Create your profile page using **HTML tags and add contact us form as well.
 
 Experiment2 = Create your profile page using HTML tags and add contact us form as well. Add styles to it using internal css.
 
