@@ -4,7 +4,7 @@
 // delete all in public except index.html
 
 // to host the app type : npm start
-
+-------------------------------------------------------------------------------------
 //App.js
 
 import React from 'react';
@@ -45,7 +45,7 @@ function App() {
 export default App;
 
 
-
+-------------------------------------------------------------------------------------
 //components
         // components/AboutUs.js
         import React from "react";
@@ -53,14 +53,14 @@ export default App;
           return <h1>About Us Page</h1>;
         };
         export default AboutUs;
-
+        -------------------------------------------
         // components/Home.js
         import React from "react";
         const Home = () => {
           return <h1>Welcome to the Home Page!</h1>;
         };
         export default Home;
-
+        -------------------------------------------
 
         // components/ContactUs.js
         import React from "react";
@@ -69,7 +69,7 @@ export default App;
         };
         export ContactUs ;
 
-
+        -------------------------------------------
         // components/PageNotFound.js
         import React from "react";
         const PageNotFound = () => {
