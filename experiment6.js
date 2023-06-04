@@ -4,7 +4,7 @@
 // delete all in public except index.html
 
 // to host the app type : npm start
-
+-------------------------------------------------------------------------------------
 //form.js
 import React, { useState } from 'react';
 
@@ -47,10 +47,8 @@ function Form() {
     </div>
   );
 }
-
 export default Form;
-
-
+-------------------------------------------------------------------------------------
 //App.js
 
 import Form from "./Form.js"
@@ -62,9 +60,8 @@ function App() {
     </div>
   );
 }
-
 export default App;
-
+-------------------------------------------------------------------------------------
 
 //index.js
 import React from 'react';
