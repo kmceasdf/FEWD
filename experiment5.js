@@ -4,7 +4,7 @@
 // delete all in public except index.html
 
 // to host the app type : npm start
-
+-------------------------------------------------------------------------------------
 //App.js 
 import Counter from "./Counter.js"
 
@@ -16,7 +16,7 @@ function App() {
   );
 }
 export default App;
-
+-------------------------------------------------------------------------------------
 //indexjs
 import React from 'react';
 import ReactDOM from 'react-dom/client';
@@ -28,7 +28,7 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
+-------------------------------------------------------------------------------------
 //Counter.js
 import React, { useState } from 'react';
 
