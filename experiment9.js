@@ -76,4 +76,16 @@ export default App;
           return <h1>page not found error</h1>;
         };
         export default PageNotFound;
+-------------------------------------------------------------------------------------
+//index.js
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App';
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
 
